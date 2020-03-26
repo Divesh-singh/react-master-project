@@ -8,7 +8,7 @@ import HomePage from './pages/homepage/homepage.component.jsx';
 const HatsPage = () => (
   <div>
     <h1>
-      HATS PAGE
+      This is HATS PAGE
     </h1>
   </div>
 );
